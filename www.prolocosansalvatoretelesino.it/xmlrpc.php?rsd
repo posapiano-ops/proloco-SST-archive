@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://www.prolocosansalvatoretelesino.it</homePageLink>
+    <homePageLink>index.html</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.prolocosansalvatoretelesino.it/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.prolocosansalvatoretelesino.it/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.prolocosansalvatoretelesino.it/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.prolocosansalvatoretelesino.it/xmlrpc.php" />
-      <api name="Atom" blogID="" preferred="false" apiLink="http://www.prolocosansalvatoretelesino.it/wp-app.php/service" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="./xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="./xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="./xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="./xmlrpc.php" />
+      <api name="Atom" blogID="" preferred="false" apiLink="./wp-app.php/service" />
     </apis>
   </service>
 </rsd>
