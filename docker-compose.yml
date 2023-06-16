@@ -1,6 +1,5 @@
 version: '3.8'
 services:
-
   web:
     image: nginx
     container_name: web
@@ -10,9 +9,19 @@ services:
     volumes:
       - ./website:/var/www/html:rw
       - ./config/default.conf:/etc/nginx/conf.d/default.conf
+    networks:
+      eth: null
+      
   php-fpm:
     image: php:8-fpm
     container_name: php-fpm
     hostname: php-fpm
     volumes:
       - ./website:/var/www/html:rw
+    networks:
+      eth: null
+
+networks:
+  eth:
+    external: true
+    name: eth
