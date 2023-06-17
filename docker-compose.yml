@@ -16,6 +16,8 @@ services:
     image: php:8-fpm
     container_name: php-fpm
     hostname: php-fpm
+    environment:
+      - WEB_STATUS=${WEB_STATUS-develop}
     volumes:
       - ./website:/var/www/html:rw
     networks:
