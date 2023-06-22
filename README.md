@@ -7,6 +7,7 @@ Restore website della proloco di San Salvatore Telesino da web.archive.org
 mv env.sample .env
 docker-compose up
 ```
+Dal Browser collegarsi a http://localhost:8000
 ## Download da web.archive.org
 ```bash
 docker pull hartator/wayback-machine-downloader

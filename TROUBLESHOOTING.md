@@ -1,4 +1,6 @@
-# Fix Permission
+# Troubleshooting/ FAQ Guide
+
+## Fix Permission
 run bash on php-fpm container
 ```bash
 chown :www-data -R /var/www/html
@@ -9,6 +11,3 @@ find . -type d -exec chmod u+s '{}' ';'
 find . -type d -exec chmod g+s '{}' ';'
 ```
 
-### Inspired
-https://codeshack.io/lightweight-template-engine-php/
-https://www.unplitrentino.it/
