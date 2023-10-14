@@ -1,0 +1,4 @@
+baseURL = 'http://prolocosansalvatoretelesino.it/'
+languageCode = 'it-IT'
+title = 'ProLoco San Salvatore Telesino Site'
+theme = 'proloco-sst-hugo'
