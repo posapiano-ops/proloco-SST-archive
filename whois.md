@@ -3,28 +3,30 @@
 ### Domain Profile
 ```
 Registrar Status	ok
-Dates	1,123 days old
+Dates	1,352 days old
 Created on 2020-05-18
-Expires on 2023-07-12
-Updated on 2022-07-28
+Expires on 2024-07-12
+Updated on 2023-07-28	
 ```	  
 ### Tech Contact
+
 ```
-IP Address	139.162.183.247 - 132 other sites hosted on this server
+IP Address	139.162.183.247 - 128 other sites hosted on this server
 ```
 * IP Location	Germany - Hessen - Frankfurt Am Main - Linode Llc
 ASN	Germany AS63949 AKAMAI-LINODE-AP Akamai Connected Cloud, SG (registered Feb 16, 2015)
-* IP History	1 change on 1 unique IP addresses over 2 years	  
-* Hosting History	4 changes on 3 unique name servers over 3 years
+* IP History	1 change on 1 unique IP addresses over 3 years  
+* Hosting History	4 changes on 3 unique name servers over 4 years	  
+
+### Whois Record ( last updated on 2024-01-30 )
 	  
-Whois Record ( last updated on 2023-06-15 )
 ```
 Domain:             prolocosansalvatoretelesino.it
 Status:             ok
 Signed:             no
 Created:            2020-05-18 09:00:06
-Last Update:        2022-07-28 00:48:25
-Expire Date:        2023-07-12
+Last Update:        2023-07-28 00:48:55
+Expire Date:        2024-07-12
 
 Registrant
   Organization:     PROLOCO SAN SALVATORE TELESINO
