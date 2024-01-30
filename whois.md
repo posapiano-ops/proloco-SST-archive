@@ -35,6 +35,8 @@ Registrant
                     82030
                     BN
                     IT
+  Tel:              +39.0824948144
+  E-Mail:           sansalvatore@unplibenevento.it
   Created:          2021-07-07 10:23:49
   Last Update:      2021-07-07 10:23:49
 
@@ -46,6 +48,8 @@ Admin Contact
                     82030
                     BN
                     IT
+  Tel:              +39.0824948144
+  E-Mail:           sansalvatore@unplibenevento.it
   Created:          2021-07-07 10:23:49
   Last Update:      2021-07-07 10:23:49
 
@@ -57,6 +61,8 @@ Technical Contacts
                     82030
                     BN
                     IT
+  Tel:              +39.0824948144
+  E-Mail:           sansalvatore@unplibenevento.it
   Created:          2021-07-07 10:23:49
   Last Update:      2021-07-07 10:23:49
 
