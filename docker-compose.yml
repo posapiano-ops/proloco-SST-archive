@@ -4,6 +4,7 @@ services:
     image: nginx
     container_name: web
     hostname: web
+    restart: unless-stopped
     ports: 
       - 8000:80
     volumes:
@@ -16,6 +17,7 @@ services:
     image: php:8-fpm
     container_name: php-fpm
     hostname: php-fpm
+    restart: unless-stopped
     environment:
       - WEB_STATUS=${WEB_STATUS-develop}
     volumes:
